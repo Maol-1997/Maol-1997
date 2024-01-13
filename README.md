@@ -15,7 +15,7 @@ Here are a few projects that I've worked on:
 
 | Project | Image | Description |
 | --- | --- | --- |
-| <a href="https://codegpt.co" target="_blank"> **CodeGPT** </a> |  <img src='https://raw.githubusercontent.com/Maol-1997/Maol-1997/main/5.svg' width='150' height='150'> | CodeGPT is a platform that leverages the power of AI to assist with coding and software development. |
+| <a href="https://codegpt.co" target="_blank"> **CodeGPT** </a> |  <img src='https://raw.githubusercontent.com/Maol-1997/Maol-1997/main/codegpt.svg' width='150' height='150'> | CodeGPT is a platform that leverages the power of AI to assist with coding and software development. |
 | <a href="https://v0.maol.dev" target="_blank"> **V0 Clone** </a> | <img src='https://raw.githubusercontent.com/Maol-1997/Maol-1997/main/v0.svg' width='150' height='150'> |  A clone of V0, a platform for creating React components with the Shadcn library, powered by AI interaction. |
 | <a href="https://chatgpt.maol.dev" target="_blank"> **AI Chatbot** </a> | <img src='https://raw.githubusercontent.com/Maol-1997/Maol-1997/main/chatgpt.svg' width='150' height='150'> | An intelligent chatbot that uses natural language processing to facilitate smooth and natural conversations. (forked frontend) |
 
